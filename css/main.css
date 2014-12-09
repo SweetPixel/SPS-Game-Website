@@ -1,0 +1,158 @@
+#main-icon {
+	background: url('../images/Icon-60@2x.png');
+}
+#app-store, #android-store {
+	background: url('../images/AppStore-Playstore-01.svg');
+}
+#cat-img {
+	background: url('../images/cat.svg');
+}
+#sister-img {
+	background: url('../images/sister.svg');
+}
+#brother-img {
+	background: url('../images/brother.svg');
+}
+#mother-img {
+	background: url('../images/mother.svg');
+}
+#father-img {
+	background: url('../images/father.svg');
+}
+
+@media (min-width: 1200px){
+	#main-icon {
+		display: block;
+  		margin: 0 auto;
+  		text-indent: -9999px;
+		width: 120px;
+		height: 120px;
+		background-position: 0px 0px;
+		margin-top: 11%;
+		margin-left: 46%;
+	}
+	#app-store {
+		text-indent: -9999px;
+		width: 18%;
+		height: 74px;
+		background-position: -7px 84px;
+	}
+	#android-store {
+		text-indent: -9999px;
+		width: 18%;
+		height: 74px;
+		background-position: -8px -8px;
+	}
+	#download-links {
+		margin-top: 4%;
+		margin-left: 7%;
+		width: 93%;
+	}
+	#cat-img {
+		text-indent: -9999px;
+		width: 12.7%;
+		height: 215px;
+		background-position: 0px 224px;
+		margin-left: -80%;
+		margin-top: -11%;
+	}
+	#sister-img {
+		text-indent: -9999px;
+		width: 139px;
+		height: 173px;
+		background-position: 141px 251px;
+		margin-left: 91%;
+		margin-top: -22%;
+	}
+	#brother-img {
+		text-indent: -9999px;
+		width: 7.5%;
+		height: 73px;
+		background-position: 111px 74px;
+		margin-top: 16.1%;
+		margin-left: 43%;
+	}
+	#mother-img {
+		width: 215px;
+		height: 200px;
+		background-position: 0px 208px;
+		margin-left: -11%;
+		margin-top: -16.9%;
+	}
+	#father-img {
+		width: 11%;
+		height: 193px;
+		background-position: -90px 194px;
+		margin-left: 91.5%;
+		margin-top: -16.2%;
+	}
+}
+
+@media (max-width: 379px) {
+	#main-icon {
+		display: block;
+  		margin: 0 auto;
+  		text-indent: -9999px;
+		width: 120px;
+		height: 120px;
+		background-position: 0px 0px;
+		margin-top: 47%;
+		margin-left: 35%;
+	}
+	#app-store {
+		text-indent: -9999px;
+		width: 108%;
+		height: 74px;
+		background-position: -7px 84px;
+	}
+	#android-store {
+		text-indent: -9999px;
+		width: 108%;
+		height: 74px;
+		background-position: -8px -8px;
+		margin-top: 5%;
+	}
+	#download-links {
+		margin-top: 4%;
+		margin-left: 18%;
+		width: 66%;
+	}
+	#cat-img {
+		text-indent: -9999px;
+		width: 261px;
+		height: 148px;
+		background-position: 259px 0px;
+		margin-left: 0%;
+		margin-top: -238%;
+	}
+	#sister-img {
+		text-indent: -9999px;
+		width: 119px;
+		height: 173px;
+		background-position: 141px 251px;
+		margin-left: 82%;
+		margin-top: -14%;
+	}
+	#brother-img {
+		text-indent: -9999px;
+		width: 37%;
+		height: 115px;
+		background-position: 0px 171px;
+		margin-top: -35%;
+		margin-left: -47%;
+	}
+	#mother-img {
+		width: 210px;
+		height: 205px;
+		background-position: -19px 210px;
+		margin-left: -59%;
+		margin-top: -100%;
+	}
+	#father-img {
+		width: 63%;
+		height: 193px;
+		background-position: -90px 214px;
+		margin-left: 80%;
+		margin-top: 55%;
+	}
+}
