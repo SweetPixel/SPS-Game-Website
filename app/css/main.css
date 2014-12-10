@@ -1,15 +1,15 @@
-/*#main-icon {
+#main-icon {
 	background: url('../images/Icon-60@2x.png');
-}*/
+}
 #app-store, #android-store {
 	background: url('../images/AppStore-Playstore-01.svg');
 }
 #cat-img {
 	background: url('../images/cat.svg');
 }
-/*#sister-img {
+#sister-img {
 	background: url('../images/sister.svg');
-}*/
+}
 #brother-img {
 	background: url('../images/brother.svg');
 }
@@ -736,19 +736,19 @@
 		background-size: 29%;
 	}
 	#sister-img {
-		width: 70%;
-		height: 188px;
-		/* background-position: 68px 251px; */
-		/*margin-left: 76%;*/
+		width: 45%;
+		height: 172px;
+		background-position: 135px 251px;
+		margin-left: 0%;
 		margin-top: 9%;
 	}
 	#cat-img {
 		width: 30%;
-		height: 82px;
-		background-position: 140px 0px;
-		margin-left: 37%;
-		margin-top: -60%;
-		background-size: 175%;
+		height: 63px;
+		background-position: 109px 0px;
+		margin-left: 34%;
+		margin-top: -71%;
+		background-size: 176%;
 	}
 	#app-store {
 		width: 45%;
