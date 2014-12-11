@@ -20,7 +20,13 @@
 	background: url('../images/father.svg');
 }
 
-@media (max-width: 379px){
+@media (max-width: 320px){
+	#sister-img {
+		margin-left: 18%;
+	}
+}
+
+@media (max-width: 321px) and (max-width: 379) {
 	#sister-img {
 		margin-left: 31%;
 	}
