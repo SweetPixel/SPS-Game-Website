@@ -38,6 +38,30 @@
 	#main-icon {
 		margin-top: -24%;
 	}
+	#brother-img {
+		width: 22%;
+		height: 97px;
+		background-size: 230% 305%;
+		background-position: 0% 43%;
+		margin-top: -23%;
+		margin-left: 0%;
+	}
+	#app-store {
+		width: 50%;
+		height: 50px;
+		background-size: 230% 305%;
+		background-position: 47% 95%;
+		margin-top: 2%;
+		margin-left: 21%;
+	}
+	#android-store {
+		width: 50%;
+		height: 50px;
+		background-size: 230% 305%;
+		background-position: 52% 4%;
+		margin-top: 1%;
+		margin-left: 24.1%;
+	}
 }
 
 @media (min-width: 321px) and (max-width: 379px) {
@@ -58,6 +82,30 @@
 	#main-icon {
 		margin-top: -22%;
 	}
+	#brother-img {
+		width: 22%;
+		height: 114px;
+		background-size: 230% 305%;
+		background-position: 0% 43%;
+		margin-top: -23%;
+		margin-left: 0%;
+	}
+	#app-store {
+		width: 50%;
+		height: 50px;
+		background-size: 230% 305%;
+		background-position: 47% 95%;
+		margin-top: 2%;
+		margin-left: 23%;
+	}
+	#android-store {
+		width: 50%;
+		height: 50px;
+		background-size: 230% 305%;
+		background-position: 52% 4%;
+		margin-top: 1%;
+		margin-left: 26.1%;
+	}
 }
 @media (min-width: 380px) and (max-width: 479px){
 	#sister-img {
@@ -76,6 +124,30 @@
 	#main-icon {
 		margin-top: -36%;
 		margin-left: 11%;
+	}
+	#brother-img {
+		width: 21%;
+		height: 77px;
+		background-size: 209% 305%;
+		background-position: 82% 87%;
+		margin-top: 52%;
+		margin-left: 38%;
+	}
+	#app-store {
+		width: 50%;
+		height: 60px;
+		background-size: 230% 310%;
+		background-position: 47% 94.8%;
+		margin-top: -7%;
+		margin-left: 24%;
+	}
+	#android-store {
+		width: 50%;
+		height: 60px;
+		background-size: 226% 312%;
+		background-position: 52% 4%;
+		margin-top: 1%;
+		margin-left: 27.1%;
 	}
 }
 
@@ -97,6 +169,30 @@
 		margin-top: -38%;
 		margin-left: 11%;
 	}
+	#brother-img {
+		width: 17%;
+		height: 85px;
+		background-size: 209% 305%;
+		background-position: 82% 87%;
+		margin-top: 35.6%;
+		margin-left: 38%;
+	}
+	#app-store {
+		width: 50%;
+		height: 60px;
+		background-size: 230% 310%;
+		background-position: 47% 95%;
+		margin-top: -7%;
+		margin-left: 23%;
+	}
+	#android-store {
+		width: 50%;
+		height: 60px;
+		background-size: 226% 312%;
+		background-position: 52% 4%;
+		margin-top: 1%;
+		margin-left: 26.2%;
+	}
 }
 
 @media (min-width: 590px) and (max-width: 797px){
@@ -117,6 +213,30 @@
 		margin-top: -26%;
 		margin-left: 38%;
 	}
+	#brother-img {
+		width: 13%;
+		height: 85px;
+		background-size: 209% 305%;
+		background-position: 82% 87%;
+		margin-top: 35.6%;
+		/*margin-left: 38%;*/
+	}
+	#app-store {
+		width: 25%;
+		height: 60px;
+		background-size: 230% 310%;
+		background-position: 47% -52.7%;
+		margin-top: -10%;
+		/* margin-left: 24%; */
+	}
+	#android-store {
+		width: 23%;
+		height: 60px;
+		background-size: 226% 312%;
+		background-position: 52% 4%;
+		margin-top: -1%;
+		margin-left: 35.8%;
+	}
 }
 
 @media (min-width: 798px) and (max-width: 991px){
@@ -135,7 +255,31 @@
 	}
 	#main-icon {
 		margin-top: -22%;
-		margin-left: 28%;
+	/* margin-left: 28%; */
+	}
+	#brother-img {
+		width: 11%;
+		height: 77px;
+		background-size: 209% 305%;
+		background-position: 82% 88%;
+		margin-top: 35.6%;
+	/* margin-left: 38%; */
+	}
+	#app-store {
+		width: 23%;
+		height: 60px;
+		background-size: 230% 310%;
+		background-position: 50% 94.9%;
+		margin-top: -7%;
+		margin-left: 25%;
+	}
+	#android-store {
+		width: 23%;
+		height: 60px;
+		background-size: 226% 312%;
+		background-position: 52% 4%;
+		margin-top: -6.5%;
+		margin-left: 57%;
 	}
 }
 
@@ -157,6 +301,30 @@
 		margin-left: 43%;
 		margin-top: -18%;
 	}
+	#brother-img {
+		width: 10%;
+		height: 79px;
+		background-size: 201% 277%;
+		background-position: 82% 96%;
+		margin-top: 22%;
+		/* margin-left: 38%; */
+	}
+	#app-store {
+		width: 23%;
+		height: 67px;
+		background-size: 226% 312%;
+		background-position: 56% 94.8%;
+		margin-top: -7%;
+		margin-left: 25%;
+	}
+	#android-store {
+		width: 23%;
+		height: 67px;
+		background-size: 226% 312%;
+		background-position: 52% 4%;
+		margin-top: -7%;
+		margin-left: 57%;
+	}
 }
 
 @media (min-width: 1200px){
@@ -176,5 +344,29 @@
 	#main-icon {
 		margin-top: -15%;
 		margin-left: 45%;
+	}
+	#brother-img {
+		width: 10%;
+		height: 79px;
+		background-size: 201% 277%;
+		background-position: 82% 96%;
+		margin-top: 17.8%;
+		/* margin-left: 38%; */
+	}
+	#app-store {
+		width: 23%;
+		height: 77px;
+		background-size: 226% 312%;
+		background-position: 58% 94.8%;
+		margin-top: -5%;
+		/* margin-left: 25%; */
+	}
+	#android-store {
+		width: 23%;
+		height: 77px;
+		background-size: 226% 312%;
+		background-position: 52% 4%;
+		margin-top: -5%;
+		/* margin-left: 25%; */
 	}
 }
