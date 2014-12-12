@@ -129,9 +129,11 @@
 		width: 21%;
 		height: 77px;
 		background-size: 209% 305%;
-		background-position: 82% 87%;
-		margin-top: 52%;
+		background-position: 82% 77%;
+		/* margin-top: 52%; */
 		margin-left: 38%;
+		position: absolute;
+		bottom: 0;
 	}
 	#app-store {
 		width: 50%;
@@ -173,9 +175,11 @@
 		width: 17%;
 		height: 85px;
 		background-size: 209% 305%;
-		background-position: 82% 87%;
-		margin-top: 35.6%;
+		background-position: 82% 79%;
+		/* margin-top: 35.6%; */
 		margin-left: 38%;
+		position: absolute;
+		bottom: 0;
 	}
 	#app-store {
 		width: 50%;
@@ -217,9 +221,11 @@
 		width: 13%;
 		height: 85px;
 		background-size: 209% 305%;
-		background-position: 82% 87%;
-		margin-top: 35.6%;
-		/*margin-left: 38%;*/
+		background-position: 82% 75%;
+		/* margin-top: 35.6%; */
+		margin-left: 38%;
+		position: absolute;
+		bottom: 0;
 	}
 	#app-store {
 		width: 25%;
@@ -262,8 +268,10 @@
 		height: 77px;
 		background-size: 209% 305%;
 		background-position: 82% 88%;
-		margin-top: 35.6%;
-	/* margin-left: 38%; */
+		/* margin-top: 35.6%; */
+		/* margin-left: 38%; */
+		position: absolute;
+		bottom: 0;
 	}
 	#app-store {
 		width: 23%;
@@ -306,8 +314,10 @@
 		height: 79px;
 		background-size: 201% 277%;
 		background-position: 82% 96%;
-		margin-top: 22%;
+		/* margin-top: 22%; */
 		/* margin-left: 38%; */
+		position: absolute;
+		bottom: 0;
 	}
 	#app-store {
 		width: 23%;
