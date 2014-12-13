@@ -36,7 +36,7 @@
 		margin-left: 34%;
 	}
 	#main-icon {
-		margin-top: -24%;
+		margin-top: 17%;
 	}
 	#brother-img {
 		width: 22%;
@@ -91,7 +91,7 @@
 		margin-left: 34%;
 	}
 	#main-icon {
-		margin-top: -22%;
+		margin-top: 20%;
 	}
 	#brother-img {
 		width: 22%;
@@ -145,7 +145,7 @@
 	}
 	#main-icon {
 		margin-top: -36%;
-		margin-left: 11%;
+		/*margin-left: 11%;*/
 	}
 	#brother-img {
 		width: 21%;
@@ -252,14 +252,15 @@
 		width: 33%;
 	}
 	#cat-img {
-		width: 22%;
-		height: 132px;
-		background-size: 122% 300%;
-		background-position: 4% 72%;
-		margin-top: -25%;
+		width: 19%;
+		height: 95px;
+		background-position: 65% 83%;
+		background-size: 100% 227%;
+		margin-top: -17%;
 	}
 	#main-icon {
-		margin-top: -26%;
+		width: 20%;
+		margin-top: -22%;
 		margin-left: 38%;
 	}
 	#brother-img {
@@ -273,20 +274,20 @@
 		bottom: 0;
 	}
 	#app-store {
-		width: 33%;
-		height: 60px;
-		background-size: 230% 310%;
-		background-position: 52% -52.7%;
+		width: 23%;
+		height: 51px;
+		background-size: 100% 310%;
+		background-position: 52% -53%;
 		margin-top: -5%;
-		margin-left: 14%; 
+		margin-left: 14%;
 	}
 	#android-store {
-		width: 33%;
-		height: 60px;
-		background-size: 226% 312%;
+		width: 23%;
+		height: 51px;
+		background-size: 100% 312%;
 		background-position: 52% 4%;
-		margin-top: -5.3%;
-		/*margin-left: 35.8%;*/
+		margin-top: -6.6%;
+		margin-left: 55.8%;
 	}
 	#mother-img {
 		position: absolute;
@@ -311,22 +312,21 @@
 		width: 26.5%;
 	}
 	#cat-img {
-		width: 13%;
-		height: 132px;
-		background-size: 122% 300%;
-		background-position: 4% 72%;
-		margin-top: -15%;
+		width: 14%;
+		height: 89px;
+		background-position: 113% 76%;
+		background-size: 100% 256%;
+		margin-top: -20%;
 	}
 	#main-icon {
 		margin-top: -22%;
-	 	margin-left: 28%; 
 	}
 	#brother-img {
 		width: 11%;
 		height: 77px;
 		background-size: 209% 305%;
 		background-position: 82% 88%;
-		/* margin-top: 35.6%; */
+		/* margin-top: 35.6%; 
 		/* margin-left: 38%; */
 		position: absolute;
 		bottom: 0;
@@ -334,7 +334,7 @@
 	#app-store {
 		width: 23%;
 		height: 60px;
-		background-size: 230% 310%;
+		background-size: 100% 310%;
 		background-position: 50% 94.9%;
 		margin-top: -7%;
 		margin-left: 19%;
@@ -342,7 +342,7 @@
 	#android-store {
 		width: 23%;
 		height: 60px;
-		background-size: 226% 312%;
+		background-size: 100% 312%;
 		background-position: 52% 4%;
 		margin-top: -6.5%;
 		margin-left: 57%;
@@ -369,15 +369,14 @@
 		width: 21.9%;
 	}
 	#cat-img {
-		width: 13%;
-		height: 132px;
-		background-size: 122% 300%;
-		background-position: 4% 72%;
-		margin-top: -11%;
+		width: 14%;
+		height: 89px;
+		background-position: 113% 76%;
+		background-size: 100% 256%;
+		margin-top: -20%;
 	}
 	#main-icon {
-		margin-left: 29%;
-		margin-top: -18%;
+		margin-top: -22%;
 	}
 	#brother-img {
 		width: 10%;
@@ -392,7 +391,7 @@
 	#app-store {
 		width: 23%;
 		height: 67px;
-		background-size: 226% 312%;
+		background-size: 100% 312%;
 		background-position: 56% 94.8%;
 		margin-top: -7%;
 		margin-left: 21%;
@@ -400,7 +399,7 @@
 	#android-store {
 		width: 23%;
 		height: 67px;
-		background-size: 226% 312%;
+		background-size: 100% 312%;
 		background-position: 52% 4%;
 		margin-top: -7%;
 		margin-left: 55%;
@@ -427,15 +426,15 @@
 		width: 19%;
 	}
 	#cat-img {
-		width: 13%;
-		height: 132px;
-		background-size: 122% 300%;
-		background-position: 4% 72%;
-		margin-top: -11%;
+		width: 14%;
+		height: 106px;
+		background-position: 113% 76%;
+		background-size: 100% 256%;
+		margin-top: -20%;
 	}
 	#main-icon {
-		margin-top: -15%;
-		margin-left: 45%;
+		margin-top: -22%;
+		margin-left: 46%;
 	}
 	#brother-img {
 		width: 10%;
@@ -449,7 +448,7 @@
 	#app-store {
 		width: 23%;
 		height: 77px;
-		background-size: 226% 312%;
+		background-size: 100% 312%;
 		background-position: 58% 94.8%;
 		margin-top: -5%;
 		/* margin-left: 25%; */
@@ -457,7 +456,7 @@
 	#android-store {
 		width: 23%;
 		height: 77px;
-		background-size: 226% 312%;
+		background-size: 100% 312%;
 		background-position: 52% 4%;
 		margin-top: -5%;
 		/* margin-left: 25%; */
