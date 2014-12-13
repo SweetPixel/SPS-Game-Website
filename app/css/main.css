@@ -1,15 +1,12 @@
-/*#main-icon {
-	background: url('../images/Icon-60@2x.png');
-}*/
+#follow-us {
+	background: url('../images/Follow_us_on.svg');
+}
 #app-store, #android-store {
 	background: url('../images/AppStore-Playstore-01.svg');
 }
 #cat-img {
 	background: url('../images/cat.svg');
 }
-/*#sister-img {
-	background: url('../images/sister.svg');
-}*/
 #brother-img {
 	background: url('../images/brother.svg');
 }
@@ -30,8 +27,8 @@
 	#cat-img {
 		width: 36%;
 		height: 74px;
-		background-size: 122% 300%;
-		background-position: 79% 12%;
+		background-size: 100% 300%;
+		background-position: 79% 23%;
 		margin-top: -70%;
 		margin-left: 34%;
 	}
@@ -85,8 +82,8 @@
 	#cat-img {
 		width: 36%;
 		height: 74px;
-		background-size: 122% 300%;
-		background-position: 79% 12%;
+		background-size: 100% 300%;
+		background-position: 79% 22%;
 		margin-top: -70%;
 		margin-left: 34%;
 	}
@@ -139,7 +136,7 @@
 	#cat-img {
 		width: 25%;
 		height: 132px;
-		background-size: 122% 300%;
+		background-size: 100% 300%;
 		background-position: 4% 72%;
 		margin-top: -26%;
 	}
@@ -184,6 +181,12 @@
 		position: absolute;
 		bottom: 0;
 	}
+	#follow-us {
+		width: 37%;
+		height: 49px;
+		background-position: 0% 32%;
+		background-size: 100% 100%;
+	}
 }
 
 @media (min-width: 480px) and (max-width: 589px){
@@ -196,7 +199,7 @@
 	#cat-img {
 		width: 25%;
 		height: 132px;
-		background-size: 122% 300%;
+		background-size: 100% 300%;
 		background-position: 4% 72%;
 		margin-top: -23%;
 	}
@@ -242,6 +245,12 @@
 		position: absolute;
 		bottom: 0;
 	}
+	#follow-us {
+		width: 30%;
+		height: 49px;
+		background-position: 0% 32%;
+		background-size: 100% 100%;
+	}
 }
 
 @media (min-width: 590px) and (max-width: 797px){
@@ -253,8 +262,8 @@
 	}
 	#cat-img {
 		width: 19%;
-		height: 95px;
-		background-position: 65% 83%;
+		height: 105px;
+		background-position: 65% 76%;
 		background-size: 100% 227%;
 		margin-top: -17%;
 	}
@@ -302,6 +311,12 @@
 		position: absolute;
 		bottom: 0;
 	}
+	#follow-us {
+		width: 17%;
+		height: 49px;
+		background-position: 0% 32%;
+		background-size: 100% 100%;
+	}
 }
 
 @media (min-width: 798px) and (max-width: 991px){
@@ -313,7 +328,7 @@
 	}
 	#cat-img {
 		width: 14%;
-		height: 89px;
+		height: 72px;
 		background-position: 113% 76%;
 		background-size: 100% 256%;
 		margin-top: -20%;
@@ -359,6 +374,12 @@
 		position: absolute;
 		bottom: 0;
 	}
+	#follow-us {
+		width: 12%;
+		height: 49px;
+		background-position: 0% 32%;
+		background-size: 100% 100%;
+	}
 }
 
 @media (min-width: 992px) and (max-width: 1199px){
@@ -370,7 +391,7 @@
 	}
 	#cat-img {
 		width: 14%;
-		height: 89px;
+		height: 109px;
 		background-position: 113% 76%;
 		background-size: 100% 256%;
 		margin-top: -20%;
@@ -416,6 +437,12 @@
 		position: absolute;
 		bottom: 0;
 	}
+	#follow-us {
+		width: 12%;
+		height: 49px;
+		background-position: 0% 32%;
+		background-size: 100% 100%;
+	}
 }
 
 @media (min-width: 1200px){
@@ -427,7 +454,7 @@
 	}
 	#cat-img {
 		width: 14%;
-		height: 106px;
+		height: 126px;
 		background-position: 113% 76%;
 		background-size: 100% 256%;
 		margin-top: -20%;
@@ -472,5 +499,11 @@
 		width: 18%;
 		position: absolute;
 		bottom: 0;
+	}
+	#follow-us {
+		/*width: 12%;*/
+		height: 49px;
+		background-position: 0% 32%;
+		background-size: 100% 100%;
 	}
 }
