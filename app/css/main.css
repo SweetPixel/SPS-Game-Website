@@ -10,9 +10,9 @@
 #brother-img {
 	background: url('../images/brother.svg');
 }
-/*#mother-img {
-	background: url('../images/mother.svg');
-}*/
+#facebook, #twitter, #gplus {
+	background: url('../images/Social-Media-Icons.svg');
+}
 /*#father-img {
 	background: url('../images/father.svg');
 }*/
@@ -505,5 +505,23 @@
 		height: 49px;
 		background-position: 0% 32%;
 		background-size: 100% 100%;
+	}
+	#facebook {
+		width: 4%;
+		height: 53px;
+		background-size: 294% 427%;
+		background-position: 0% 65%;
+	}
+	#twitter {
+		width: 4%;
+		height: 53px;
+		background-size: 294% 427%;
+		background-position: 50% 65%;
+	}
+	#gplus {
+		width: 4%;
+		height: 53px;
+		background-size: 294% 427%;
+		background-position: 100% 65.4%;
 	}
 }
