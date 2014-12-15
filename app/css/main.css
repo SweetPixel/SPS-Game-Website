@@ -95,11 +95,11 @@
 		margin-top: 20%;
 	}
 	#brother-img {
-		width: 22%;
-		height: 114px;
+		width: 19%;
+		height: 87px;
 		background-size: 230% 305%;
 		background-position: 0% 43%;
-		margin-top: -23%;
+		margin-top: -44%;
 		margin-left: 0%;
 	}
 	#app-store {
@@ -122,12 +122,13 @@
 		position: absolute;
 		bottom: 0;
 		padding-left: 0;
-		width: 32%;
+		width: 44%;
 	}
 	#father-img {
 		padding-right: 0;
 		position: absolute;
 		bottom: 0;
+		width: 50%;
 	}
 }
 @media (min-width: 380px) and (max-width: 479px){
@@ -178,12 +179,13 @@
 		position: absolute;
 		bottom: 0;
 		padding-left: 0;
-		width: 30%;
+		width: 40%;
 	}
 	#father-img {
 		padding-right: 0;
 		position: absolute;
 		bottom: 0;
+		width: 50%;
 	}
 	#follow-us {
 		width: 20%;
@@ -265,12 +267,14 @@
 		position: absolute;
 		bottom: 0;
 		padding-left: 0;
-		width: 21%;
+		width: 30%;
 	}
 	#father-img {
 		padding-right: 0;
 		position: absolute;
 		bottom: 0;
+		width: 42%;
+		right: 0;
 	}
 	#follow-us {
 		width: 20%;
@@ -352,14 +356,15 @@
 		position: absolute;
 		bottom: 0;
 		padding-left: 0;
-		width: 21%;
+		width: 28%;
 	}
 	#father-img {
 		padding-right: 0%;
-		margin-left: 77%;
-		width: 23%;
+		/* margin-left: 77%; */
+		width: 31%;
 		position: absolute;
 		bottom: 0;
+		right: 0;
 	}
 	#follow-us {
 		width: 17%;
@@ -438,14 +443,16 @@
 	#mother-img {
 		position: absolute;
 		bottom: 0;
+		width: 23%;
 		padding-left: 0;
 	}
 	#father-img {
 		padding-right: 0%;
-		margin-left: 77%;
-		width: 23%;
+		/* margin-left: 77%; */
+		width: 25%;
 		position: absolute;
 		bottom: 0;
+		right: 0;
 	}
 	#follow-us {
 		width: 12%;
@@ -545,7 +552,7 @@
 		width: 68%;
 		height: 49px;
 		background-size: 100% 100%;
-		margin-left: -83%;
+		margin-left: -95%;
 	}
 	#twitter {
 		text-indent: -9999px;
@@ -553,7 +560,7 @@
 		width: 68%;
 		height: 49px;
 		background-size: 100% 100%;
-		margin-left: -41%;
+		margin-left: -45%;
 	}
 	#gplus {
 		text-indent: -9999px;
@@ -561,6 +568,7 @@
 		width: 68%;
 		height: 49px;
 		background-size: 100% 100%;
+		margin-left: 5%;
 	}
 }
 
@@ -630,19 +638,20 @@
 		display: block;
 		width: 51%;
 		height: 49px;
-		margin-left: -90%;
+		margin-left: -103%;
 	}
 	#twitter {
 		text-indent: -9999px;
 		display: block;
 		width: 52%;
 		height: 49px;
-		margin-left: -45%;
+		margin-left: -47%;
 	}
 	#gplus {
 		text-indent: -9999px;
 		display: block;
 		width: 52%;
 		height: 49px;
+		margin-left: 10%;
 	}
 }
