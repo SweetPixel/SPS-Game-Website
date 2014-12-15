@@ -27,7 +27,17 @@ body {
  	-o-background-size: cover;
  	background-size: cover;
 }
-
+.button {
+	background-color: #F2784B;
+	border: 2px;
+	border-radius: 15px;
+	color: white;
+}
+#mce-EMAIL {
+	border: 2px;
+	border-radius: 15px;
+	width: 82%;
+}
 @media (max-width: 320px){
 	#sister-img {
 		padding-right: 0%;
@@ -666,6 +676,6 @@ body {
 		margin-top: 1%;
 	}
 	#subscribe-button {
-		margin-top: -8.4%;
+		margin-top: -7%;
 	}
 }
