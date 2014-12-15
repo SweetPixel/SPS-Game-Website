@@ -20,16 +20,12 @@
 	background: url('../images/G+.svg');
 }
 body {
-	background: url('../images/wallpaper.svg') no-repeat;
-	background-position: center;
-}
-.turnDeviceNotification {
-  position:fixed;
-  top: 0;
-  left:0;
-  height:100%;
-  width:100%;
-  display: none;
+	background: url('../images/wallpaper-01.svg') no-repeat center center fixed;
+	/*background-position: center;*/
+	-webkit-background-size: cover;
+ 	-moz-background-size: cover;
+ 	-o-background-size: cover;
+ 	background-size: cover;
 }
 
 @media (max-width: 320px){
