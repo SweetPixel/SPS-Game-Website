@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="120px" height="120px" viewBox="0 0 120 120" enable-background="new 0 0 120 120" xml:space="preserve">
+<g>
+	<defs>
+		<path id="XMLID_2_" d="M118.764,97.655c0,11.541-9.355,20.896-20.896,20.896H22.113c-11.541,0-20.896-9.355-20.896-20.896V21.901
+			c0-11.541,9.355-20.896,20.896-20.896h75.755c11.541,0,20.896,9.356,20.896,20.896V97.655z"/>
+	</defs>
+	<use xlink:href="#XMLID_2_"  overflow="visible" fill="#EEF3F5"/>
+	<clipPath id="XMLID_7_">
+		<use xlink:href="#XMLID_2_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#XMLID_7_)">
+		
+			<rect id="XMLID_18_" x="42.848" y="28.494" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -36.3108 90.5782)" fill="#01AB92" width="96.669" height="121.253"/>
+		<g>
+			<defs>
+				<path id="SVGID_1_" d="M67.09,71.884c5.714,5.713,4.039,21.97-1.855,27.864c-5.896,5.896-16.55,3.345-22.264-2.369
+					c-5.715-5.714-1.651-13.736,4.245-19.632C53.111,71.853,61.377,66.172,67.09,71.884z"/>
+			</defs>
+			<use xlink:href="#SVGID_1_"  overflow="visible" fill="#2D2C2C"/>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  overflow="visible"/>
+			</clipPath>
+			
+				<rect x="65.186" y="58.749" transform="matrix(0.9132 -0.4076 0.4076 0.9132 -25.8508 37.2525)" opacity="0.2" clip-path="url(#SVGID_2_)" fill="#FFFFFF" width="18.631" height="41.093"/>
+		</g>
+		<g>
+			<defs>
+				<path id="SVGID_3_" d="M98.699,40.275c5.714,5.714,8.021,17.986,2.128,23.881c-5.896,5.896-20.532,7.326-26.247,1.613
+					c-5.713-5.715-1.65-13.735,4.245-19.63C84.719,40.244,92.987,34.563,98.699,40.275z"/>
+			</defs>
+			<use xlink:href="#SVGID_3_"  overflow="visible" fill="#2D2C2C"/>
+			<clipPath id="SVGID_4_">
+				<use xlink:href="#SVGID_3_"  overflow="visible"/>
+			</clipPath>
+			
+				<rect x="91.565" y="28.383" transform="matrix(0.9132 -0.4075 0.4075 0.9132 -11.1827 45.3608)" opacity="0.2" clip-path="url(#SVGID_4_)" fill="#FFFFFF" width="18.633" height="41.091"/>
+		</g>
+		<path fill="#2D2C2C" d="M74.286,56.048c0,0-7.19,6.112-9.407,8.33c-2.217,2.215-8.329,9.405-8.329,9.405l-0.739-0.738
+			c0,0,6.111-7.19,8.329-9.406c2.217-2.218,9.407-8.33,9.407-8.33L74.286,56.048z"/>
+		<path fill="none" d="M44.177,61.626c-0.001,0.001-16.491,7.77-11.786,26.766l-2.095-2.194c0,0-10.301-14.662,11.663-25.223
+			L44.177,61.626z"/>
+		<path fill="#2D2C2C" d="M66.969,42.693c0,0,8.092-15.989,26.629-10.834l-0.565-0.585c0,0-15.145-11.556-26.133,9.734
+			L66.969,42.693z"/>
+		<g>
+			<g>
+				<defs>
+					<path id="XMLID_19_" d="M94.112,98.724c0,0,13.447,3.253,17.366,1.354c4.118-1.996,8.004-11.946,3.447-17.981
+						c-4.556-6.034-9.853-11.084-9.853-11.084S109.752,85.3,94.112,98.724z"/>
+				</defs>
+				<use xlink:href="#XMLID_19_"  overflow="visible" fill="#068B71"/>
+				<clipPath id="XMLID_8_">
+					<use xlink:href="#XMLID_19_"  overflow="visible"/>
+				</clipPath>
+				<path clip-path="url(#XMLID_8_)" fill="#FFFFFF" d="M98.574,99.653c0,0,12.193-10.386,11.685-23.208l-5.186-5.433
+					c0,0,3.448,15.271-10.961,27.712L98.574,99.653z"/>
+				
+					<use xlink:href="#XMLID_19_"  overflow="visible" fill="none" stroke="#068C70" stroke-width="0.1979" stroke-linejoin="round" stroke-miterlimit="10"/>
+			</g>
+		</g>
+	</g>
+	<use xlink:href="#XMLID_2_"  overflow="visible" fill="none" stroke="#B2B2B3" stroke-width="0.5" stroke-miterlimit="10"/>
+</g>
+<g>
+	<defs>
+		<path id="XMLID_1_" d="M351.055,216.728c0,5.824-4.722,10.545-10.546,10.545H187.61c-5.824,0-10.545-4.721-10.545-10.545V63.829
+			c0-5.825,4.721-10.546,10.545-10.546h152.899c5.824,0,10.546,4.721,10.546,10.546V216.728z"/>
+	</defs>
+	<use xlink:href="#XMLID_1_"  overflow="visible" fill="#ECF0F1"/>
+	<clipPath id="XMLID_9_">
+		<use xlink:href="#XMLID_1_"  overflow="visible"/>
+	</clipPath>
+</g>
+</svg>
