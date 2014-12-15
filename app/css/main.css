@@ -10,12 +10,15 @@
 #brother-img {
 	background: url('../images/brother.svg');
 }
-#facebook, #twitter, #gplus {
-	background: url('../images/Social-Media-Icons.svg');
+#facebook {
+	background: url('../images/facebook.svg');
 }
-/*#father-img {
-	background: url('../images/father.svg');
-}*/
+#twitter {
+	background: url('../images/twitter.svg');
+}
+#gplus {
+	background: url('../images/G+.svg');
+}
 
 @media (max-width: 320px){
 	#sister-img {
@@ -29,7 +32,7 @@
 		height: 74px;
 		background-size: 100% 300%;
 		background-position: 79% 23%;
-		margin-top: -70%;
+		margin-top: -73%;
 		margin-left: 34%;
 	}
 	#main-icon {
@@ -84,7 +87,7 @@
 		height: 74px;
 		background-size: 100% 300%;
 		background-position: 79% 22%;
-		margin-top: -70%;
+		margin-top: -73%;
 		margin-left: 34%;
 	}
 	#main-icon {
@@ -188,25 +191,27 @@
 		background-size: 100% 100%;
 	}
 	#facebook {
-		width: 4%;
-		height: 36px;
-		background-size: 294% 427%;
-		background-position: 0% 65%;
-		margin-top: 2%;
+		text-indent: -9999px;
+		display: block;
+		width: 68%;
+		height: 49px;
+		background-size: 100% 100%;
+		margin-left: -83%;
 	}
 	#twitter {
-		width: 4%;
-		height: 33px;
-		background-size: 294% 427%;
-		background-position: 50% 65%;
-		margin-top: 2%;
+		text-indent: -9999px;
+		display: block;
+		width: 68%;
+		height: 49px;
+		background-size: 100% 100%;
+		margin-left: -41%;
 	}
 	#gplus {
-		width: 4%;
-		height: 33px;
-		background-size: 294% 427%;
-		background-position: 100% 65.4%;
-		margin-top: 2%;
+		text-indent: -9999px;
+		display: block;
+		width: 68%;
+		height: 49px;
+		background-size: 100% 100%;
 	}
 }
 
@@ -273,25 +278,27 @@
 		background-size: 100% 100%;
 	}
 	#facebook {
-		width: 4%;
-		height: 36px;
-		background-size: 294% 427%;
-		background-position: 0% 65%;
-		margin-top: 2%;
+		text-indent: -9999px;
+		display: block;
+		width: 68%;
+		height: 49px;
+		background-size: 100% 100%;
+		margin-left: -83%;
 	}
 	#twitter {
-		width: 4%;
-		height: 33px;
-		background-size: 294% 427%;
-		background-position: 50% 65%;
-		margin-top: 2%;
+		text-indent: -9999px;
+		display: block;
+		width: 68%;
+		height: 49px;
+		background-size: 100% 100%;
+		margin-left: -41%;
 	}
 	#gplus {
-		width: 4%;
-		height: 33px;
-		background-size: 294% 427%;
-		background-position: 100% 65.4%;
-		margin-top: 2%;
+		text-indent: -9999px;
+		display: block;
+		width: 68%;
+		height: 49px;
+		background-size: 100% 100%;
 	}
 }
 
@@ -360,25 +367,27 @@
 		background-size: 100% 100%;
 	}
 	#facebook {
-		width: 5.5%;
-		height: 33px;
-		background-size: 100px 100px;
-		background-position: 0% 74%;
-		margin-top: 1.3%;
+		text-indent: -9999px;
+		display: block;
+		width: 68%;
+		height: 49px;
+		background-size: 100% 100%;
+		margin-left: -83%;
 	}
 	#twitter {
-		width: 4%;
-		height: 33px;
-		background-size: 294% 427%;
-		background-position: 50% 65%;
-		margin-top: 1.3%;
+		text-indent: -9999px;
+		display: block;
+		width: 68%;
+		height: 49px;
+		background-size: 100% 100%;
+		margin-left: -41%;
 	}
 	#gplus {
-		width: 4%;
-		height: 33px;
-		background-size: 294% 427%;
-		background-position: 100% 65.4%;
-		margin-top: 1.3%;
+		text-indent: -9999px;
+		display: block;
+		width: 68%;
+		height: 49px;
+		background-size: 100% 100%;
 	}
 }
 
@@ -444,22 +453,27 @@
 		background-size: 100% 100%;
 	}
 	#facebook {
-		width: 4%;
-		height: 53px;
-		background-size: 294% 427%;
-		background-position: 0% 65%;
+		text-indent: -9999px;
+		display: block;
+		width: 68%;
+		height: 49px;
+		background-size: 100% 100%;
+		margin-left: -83%;
 	}
 	#twitter {
-		width: 4%;
-		height: 53px;
-		background-size: 294% 427%;
-		background-position: 50% 65%;
+		text-indent: -9999px;
+		display: block;
+		width: 68%;
+		height: 49px;
+		background-size: 100% 100%;
+		margin-left: -41%;
 	}
 	#gplus {
-		width: 4%;
-		height: 53px;
-		background-size: 294% 427%;
-		background-position: 100% 65.4%;
+		text-indent: -9999px;
+		display: block;
+		width: 68%;
+		height: 49px;
+		background-size: 100% 100%;
 	}
 }
 
@@ -525,22 +539,27 @@
 		background-size: 100% 100%;
 	}
 	#facebook {
-		width: 4%;
-		height: 53px;
-		background-size: 294% 427%;
-		background-position: 0% 65%;
+		text-indent: -9999px;
+		display: block;
+		width: 68%;
+		height: 49px;
+		background-size: 100% 100%;
+		margin-left: -83%;
 	}
 	#twitter {
-		width: 4%;
-		height: 53px;
-		background-size: 294% 427%;
-		background-position: 50% 65%;
+		text-indent: -9999px;
+		display: block;
+		width: 68%;
+		height: 49px;
+		background-size: 100% 100%;
+		margin-left: -41%;
 	}
 	#gplus {
-		width: 4%;
-		height: 53px;
-		background-size: 294% 427%;
-		background-position: 100% 65.4%;
+		text-indent: -9999px;
+		display: block;
+		width: 68%;
+		height: 49px;
+		background-size: 100% 100%;
 	}
 }
 
@@ -606,21 +625,23 @@
 		background-size: 100% 100%;
 	}
 	#facebook {
-		width: 4%;
-		height: 53px;
-		background-size: 294% 427%;
-		background-position: 0% 65%;
+		text-indent: -9999px;
+		display: block;
+		width: 51%;
+		height: 49px;
+		margin-left: -90%;
 	}
 	#twitter {
-		width: 4%;
-		height: 53px;
-		background-size: 294% 427%;
-		background-position: 50% 65%;
+		text-indent: -9999px;
+		display: block;
+		width: 52%;
+		height: 49px;
+		margin-left: -45%;
 	}
 	#gplus {
-		width: 4%;
-		height: 53px;
-		background-size: 294% 427%;
-		background-position: 100% 65.4%;
+		text-indent: -9999px;
+		display: block;
+		width: 52%;
+		height: 49px;
 	}
 }
