@@ -23,6 +23,14 @@ body {
 	background: url('../images/wallpaper.svg') no-repeat;
 	background-position: center;
 }
+.turnDeviceNotification {
+  position:fixed;
+  top: 0;
+  left:0;
+  height:100%;
+  width:100%;
+  display: none;
+}
 
 @media (max-width: 320px){
 	#sister-img {
