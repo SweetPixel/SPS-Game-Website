@@ -19,6 +19,10 @@
 #gplus {
 	background: url('../images/G+.svg');
 }
+body {
+	background: url('../images/wallpaper.svg');
+	background-position: center;
+}
 
 @media (max-width: 320px){
 	#sister-img {
