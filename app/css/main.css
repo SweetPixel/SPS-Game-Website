@@ -39,11 +39,11 @@
 		margin-top: 17%;
 	}
 	#brother-img {
-		width: 20%;
+		width: 18%;
 		height: 90px;
 		background-size: 241% 187%;
 		background-position: 0% 34%;
-		margin-top: -23%;
+		margin-top: -57%;
 		margin-left: 0%;
 	}
 	#app-store {
@@ -66,12 +66,13 @@
 		position: absolute;
 		bottom: 0;
 		padding-left: 0;
-		width: 32%;
+		width: 45%;
 	}
 	#father-img {
 		padding-right: 0;
 		position: absolute;
 		bottom: 0;
+		width: 50%;
 	}
 }
 
