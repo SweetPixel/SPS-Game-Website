@@ -20,7 +20,7 @@
 	background: url('../images/G+.svg');
 }
 body {
-	background: url('../images/wallpaper.svg');
+	background: url('../images/wallpaper.svg') no-repeat;
 	background-position: center;
 }
 
