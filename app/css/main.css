@@ -700,7 +700,7 @@ body {
 		height: 40px;
 		margin-left: 30%;
 		background-color: #ecf0f1;
-		margin-top: 5%;
+		margin-top: 2%;
 	}
 	.button {
 		background-color: #1E8BC3;
@@ -718,7 +718,7 @@ body {
 	#sister-img {
 		padding-right: 0%;
 		margin-left: 81%;
-		margin-top: 10%;
+		margin-top: 0%;
 		width: 19%;
 	}
 	#cat-img {
@@ -726,11 +726,11 @@ body {
 		height: 126px;
 		background-position: 113% 76%;
 		background-size: 100% 256%;
-		margin-top: -20%;
+		margin-top: -5%;
 	}
 	#main-icon {
-		margin-top: -22%;
-		margin-left: 46%;
+		margin-top: -11%;
+		margin-left: 32%;
 	}
 	#brother-img {
 		width: 10%;
@@ -796,10 +796,23 @@ body {
 		height: 49px;
 		margin-left: 10%;
 	}
-	#subscription-form {
-		margin-top: 1%;
-	}
-	#subscribe-button {
+	#mce-EMAIL {
+		border: 2px;
+		border-radius: 6px;
+		width: 110%;
+		height: 40px;
+		margin-left: 30%;
+		background-color: #ecf0f1;
 		margin-top: 2%;
+	}
+	.button {
+		background-color: #1E8BC3;
+		border: 2px;
+		border-radius: 6px;
+		color: #ecf0f1;
+		height: 30px;
+		width: 255%;
+		/*margin-left: 80%;*/
+		margin-top: 13%;
 	}
 }
