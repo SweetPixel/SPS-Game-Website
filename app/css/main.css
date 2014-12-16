@@ -396,7 +396,7 @@ body {
 	#sister-img {
 		padding-right: 0%;
 		margin-left: 67%;
-		margin-top: 16%;
+		margin-top: 0%;
 		width: 33%;
 	}
 	#cat-img {
@@ -480,13 +480,32 @@ body {
 		height: 49px;
 		background-size: 100% 100%;
 	}
+	#mce-EMAIL {
+		border: 2px;
+		border-radius: 6px;
+		width: 110%;
+		height: 40px;
+		margin-left: 30%;
+		background-color: #ecf0f1;
+		margin-top: 5%;
+	}
+	.button {
+		background-color: #1E8BC3;
+		border: 2px;
+		border-radius: 6px;
+		color: #ecf0f1;
+		height: 30px;
+		width: 255%;
+		/*margin-left: 80%;*/
+		margin-top: 13%;
+	}
 }
 
 @media (min-width: 798px) and (max-width: 991px){
 	#sister-img {
 		padding-right: 0%;
 		margin-left: 73.5%;
-		margin-top: 13%;
+		margin-top: 7%;
 		width: 26.5%;
 	}
 	#cat-img {
@@ -567,6 +586,25 @@ body {
 		width: 68%;
 		height: 49px;
 		background-size: 100% 100%;
+	}
+	#mce-EMAIL {
+		border: 2px;
+		border-radius: 6px;
+		width: 110%;
+		height: 40px;
+		margin-left: 30%;
+		background-color: #ecf0f1;
+		margin-top: 5%;
+	}
+	.button {
+		background-color: #1E8BC3;
+		border: 2px;
+		border-radius: 6px;
+		color: #ecf0f1;
+		height: 30px;
+		width: 255%;
+		/*margin-left: 80%;*/
+		margin-top: 13%;
 	}
 }
 
@@ -654,6 +692,25 @@ body {
 		height: 49px;
 		background-size: 100% 100%;
 		margin-left: 5%;
+	}
+	#mce-EMAIL {
+		border: 2px;
+		border-radius: 6px;
+		width: 110%;
+		height: 40px;
+		margin-left: 30%;
+		background-color: #ecf0f1;
+		margin-top: 5%;
+	}
+	.button {
+		background-color: #1E8BC3;
+		border: 2px;
+		border-radius: 6px;
+		color: #ecf0f1;
+		height: 30px;
+		width: 255%;
+		/*margin-left: 80%;*/
+		margin-top: 13%;
 	}
 }
 
