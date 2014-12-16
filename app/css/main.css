@@ -45,7 +45,7 @@ body {
 		margin-left: 29%;
 	}
 	#main-icon {
-		margin-top: 17%;
+		margin-top: 8%;
 	}
 	#brother-img {
 		width: 18%;
@@ -60,7 +60,7 @@ body {
 		height: 50px;
 		background-size: 230% 305%;
 		background-position: 47% 95%;
-		margin-top: -2%;
+		margin-top: -15%;
 		margin-left: 24%;
 	}
 	#android-store {
@@ -158,6 +158,25 @@ body {
 		bottom: 0;
 		width: 50%;
 	}
+	#mce-EMAIL {
+		border: 2px;
+		border-radius: 6px;
+		width: 130%;
+		height: 40px;
+		margin-left: 30%;
+		background-color: #ecf0f1;
+		margin-top: 5%;
+	}
+	.button {
+		background-color: #1E8BC3;
+		border: 2px;
+		border-radius: 6px;
+		color: #ecf0f1;
+		height: 30px;
+		width: 513%;
+		margin-left: 13%;
+		margin-top: 13%;
+	}
 }
 @media (min-width: 380px) and (max-width: 479px){
 	#sister-img {
@@ -174,7 +193,7 @@ body {
 		margin-top: -26%;
 	}
 	#main-icon {
-		margin-top: -36%;
+		margin-top: -45%;
 		/*margin-left: 11%;*/
 	}
 	#brother-img {
@@ -192,7 +211,7 @@ body {
 		height: 60px;
 		background-size: 230% 310%;
 		background-position: 47% 94.8%;
-		margin-top: -7%;
+		margin-top: -18%;
 		margin-left: 24%;
 	}
 	#android-store {
@@ -200,7 +219,7 @@ body {
 		height: 60px;
 		background-size: 226% 312%;
 		background-position: 52% 4%;
-		margin-top: 1%;
+		margin-top: -2%;
 		margin-left: 27.1%;
 	}
 	#mother-img {
@@ -244,6 +263,25 @@ body {
 		height: 49px;
 		background-size: 100% 100%;
 	}
+	#mce-EMAIL {
+		border: 2px;
+		border-radius: 6px;
+		width: 120%;
+		height: 40px;
+		margin-left: 30%;
+		background-color: #ecf0f1;
+		margin-top: 5%;
+	}
+	.button {
+		background-color: #1E8BC3;
+		border: 2px;
+		border-radius: 6px;
+		color: #ecf0f1;
+		height: 30px;
+		width: 300%;
+		margin-left: 80%;
+		margin-top: 13%;
+	}
 }
 
 @media (min-width: 480px) and (max-width: 589px){
@@ -280,7 +318,7 @@ body {
 		height: 60px;
 		background-size: 230% 310%;
 		background-position: 47% 95%;
-		margin-top: -7%;
+		margin-top: -15%;
 		margin-left: 20%;
 	}
 	#android-store {
@@ -288,7 +326,7 @@ body {
 		height: 60px;
 		background-size: 226% 312%;
 		background-position: 52% 4%;
-		margin-top: 1%;
+		margin-top: -2%;
 		margin-left: 23.2%;
 	}
 	#mother-img {
@@ -301,7 +339,7 @@ body {
 		padding-right: 0;
 		position: absolute;
 		bottom: 0;
-		width: 42%;
+		width: 39%;
 		right: 0;
 	}
 	#follow-us {
@@ -332,6 +370,25 @@ body {
 		width: 68%;
 		height: 49px;
 		background-size: 100% 100%;
+	}
+	#mce-EMAIL {
+		border: 2px;
+		border-radius: 6px;
+		width: 110%;
+		height: 40px;
+		margin-left: 30%;
+		background-color: #ecf0f1;
+		margin-top: 5%;
+	}
+	.button {
+		background-color: #1E8BC3;
+		border: 2px;
+		border-radius: 6px;
+		color: #ecf0f1;
+		height: 30px;
+		width: 255%;
+		margin-left: 80%;
+		margin-top: 13%;
 	}
 }
 
