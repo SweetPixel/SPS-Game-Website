@@ -108,7 +108,7 @@ body {
 	#sister-img {
 		padding-right: 0%;
 		margin-left: 50%;
-		margin-top: 20%;
+		margin-top: 10%;
 		width: 50%;
 	}
 	#cat-img {
@@ -116,7 +116,7 @@ body {
 		height: 74px;
 		background-size: 100% 300%;
 		background-position: 79% 22%;
-		margin-top: -73%;
+		margin-top: -63%;
 		margin-left: 34%;
 	}
 	#main-icon {
@@ -124,7 +124,7 @@ body {
 	}
 	#brother-img {
 		width: 19%;
-		height: 87px;
+		height: 98px;
 		background-size: 230% 305%;
 		background-position: 0% 43%;
 		margin-top: -44%;
@@ -182,7 +182,7 @@ body {
 	#sister-img {
 		padding-right: 0%;
 		margin-left: 50%;
-		margin-top: 16%;
+		margin-top: 0%;
 		width: 50%;
 	}
 	#cat-img {
@@ -278,8 +278,8 @@ body {
 		border-radius: 6px;
 		color: #ecf0f1;
 		height: 30px;
-		width: 300%;
-		margin-left: 80%;
+		width: 250%;
+		margin-left: 100%;
 		margin-top: 13%;
 	}
 }
@@ -288,7 +288,7 @@ body {
 	#sister-img {
 		padding-right: 0%;
 		margin-left: 56%;
-		margin-top: 16%;
+		margin-top: 4%;
 		width: 44%;
 	}
 	#cat-img {
@@ -387,7 +387,7 @@ body {
 		color: #ecf0f1;
 		height: 30px;
 		width: 255%;
-		margin-left: 80%;
+		margin-left: 82%;
 		margin-top: 13%;
 	}
 }
@@ -496,7 +496,7 @@ body {
 		color: #ecf0f1;
 		height: 30px;
 		width: 255%;
-		/*margin-left: 80%;*/
+		margin-left: 72%;
 		margin-top: 13%;
 	}
 }
@@ -510,7 +510,7 @@ body {
 	}
 	#cat-img {
 		width: 14%;
-		height: 72px;
+		height: 86px;
 		background-position: 113% 76%;
 		background-size: 100% 256%;
 		margin-top: -20%;
@@ -624,6 +624,7 @@ body {
 	}
 	#main-icon {
 		margin-top: -22%;
+		margin-left: 43%;
 	}
 	#brother-img {
 		width: 10%;
