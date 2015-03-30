@@ -16,6 +16,21 @@ body {
 	width: 50%;
 	margin-top: 16px;
 }
+/* #gplus {
+	position: absolute;
+	top: 48px;
+	left: 14px;
+}
+#twitter {
+	position: absolute;
+	left: 14px;
+	top: 150px;
+}
+#facebook {
+	position: absolute;
+	left: 14px;
+	top: 96px;
+} */
 .button {
 	background-color: #1E8BC3;
 	border: 2px;
@@ -118,6 +133,9 @@ body {
 	#family-johnny {
 		width: 100px;
 		margin-left: 36%;
+	}
+	#follow-links {
+		display: none;
 	}
 	#family-cat {
 		top: 0px;
