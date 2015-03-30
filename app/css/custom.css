@@ -1,0 +1,144 @@
+body {
+	background: url('../images/wallpaper-01.svg') no-repeat center center fixed;
+	/*background-position: center;*/
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+#mce-EMAIL {
+	padding: 12px;
+	width: 100%;
+	border-radius: 12px;
+	border: none;
+}
+#subscribe-button {
+	width: 50%;
+	margin-top: 16px;
+}
+.button {
+	background-color: #1E8BC3;
+	border: 2px;
+	border-radius: 6px;
+	color: #ecf0f1;
+	height: 30px;
+}
+.form-div {
+	position: absolute;
+	margin-left: 20%;
+	width: 60%;
+	top: 52%;
+}
+.family {
+	position: absolute;
+}
+#family-johnny {
+	width: 130px;
+	margin-left: 43%;
+	top: 20%;
+}
+#family-mother {
+	width: 175px;
+	bottom: 0px;
+}
+#family-father {
+	width: 225px;
+	bottom: 0px;
+	right: 0px;
+}
+#family-sister {
+	right: 0px;
+	top: 12%;
+}
+#family-cat {
+	background-image: url("../images/cat.svg");
+	background-position: 0px 174px;
+	width: 113px;
+	height: 173px;
+	background-size: 248px;
+	top: 30%;
+}
+#family-brother {
+	background-image: url("../images/brother.svg");
+	background-position: 143px -75px;
+	width: 113px;
+	height: 173px;
+	background-size: 248px;
+	bottom: 0px;
+	left: 45%;
+}
+@media screen and (max-width: 700px) {
+	#family-johnny {
+		width: 125px;
+		margin-left: 40%;
+	}
+	.form-div {
+		position: absolute;
+		margin-left: 15%;
+		width: 70%;
+		top: 40%;
+	}
+	#family-mother {
+		width: 140px;
+	}
+	#family-cat {
+		background-position: 0px 116px;
+		width: 75px;
+		height: 116px;
+		background-size: 164px auto;
+		top: 28%;
+	}
+	#family-brother {
+		left: 42%;
+	}
+}
+@media screen and (max-width: 500px) {
+	#family-sister {
+		width: 200px;
+	}
+	#family-father {
+		width: 165px;
+	}
+	#family-brother {
+		background-position: 136px -69px;
+		width: 113px;
+		height: 148px;
+		background-size: 218px auto;
+		bottom: 0px;
+		left: 40%;
+	}
+	#family-mother {
+		width: 124px;
+	}
+	#family-johnny {
+	    margin-left: 35%;
+	}
+}
+@media screen and (max-width: 400px) {
+	#family-johnny {
+		width: 100px;
+		margin-left: 36%;
+	}
+	#family-cat {
+		top: 0px;
+		left: 43%;
+		background-position: -39px 0px;
+		width: 96px;
+		height: 77px;
+		background-size: 155px auto;
+	}
+	#family-brother {
+		top:40%;
+		left:0px;
+		background-position: -1 -15px;
+		width: 76px;
+		height: 125px;
+		background-size: 190px auto;
+	}
+}
+@media screen and (max-width: 320px) {
+	#family-johnny {
+		width: 94px;
+		margin-left: 34%;
+	}
+}

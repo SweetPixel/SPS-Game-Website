@@ -1,9 +1,3 @@
-<!doctype html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-<!---->
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1 , maximum-scale=1, user-scalable=no">
@@ -13,7 +7,6 @@
 	<meta name="author" content="sweet-pixel-studios">
 	<meta name="keywords" content="mobile,gaming,pixelfall,ios,android,sweet-pixel-studios">
 	<link rel="shortcut icon" href="sps.favicon.ico">
-	<link rel="stylesheet" type="text/css" href="css/main.css">
 
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
@@ -23,59 +16,38 @@
 
 	<!-- Latest compiled and minified JavaScript -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="css/custom.css">
 </head>
 <body>
-	<div class="container-fluid">
-		<div class="row">
-			<div class="col-md-1 col-sm-1 col-xs-1" id="follow-us"></div>
-			<!-- <div class="col-md-1 col-sm-1 col-xs-2">
-				<a href="https://www.facebook.com/SweetPixelStudios" title="sweetpixel studios facebook" id="facebook"></a>
-			</div>
-			<div class="col-md-1 col-sm-2 col-xs-2">
-				<a href="https://twitter.com/sweetpixlstdios" title="app store gaming twitter pakistan" id="twitter"></a>
-			</div> -->
-			<ul class="list-inline">
-				<li class="col-md-1 col-sm-1 col-xs-2">
-					<a href="https://plus.google.com/+Sweetpixelstudios" title="publisher" id="gplus"></a>
-				</li>
-				<li class="col-md-1 col-sm-1 col-xs-2">
-					<a href="https://twitter.com/sweetpixlstdios" title="app store gaming twitter pakistan" id="twitter"></a>
-				</li>
-				<li class="col-md-1 col-sm-1 col-xs-2">
-					<a href="https://www.facebook.com/SweetPixelStudios" title="sweetpixel studios facebook peshawar" id="facebook"></a>
-				</li>
-			</ul>
-		</div>
-		<div class="row">
-			<div class="col-md-2 col-md-offset-9 col-sm-3 col-sm-offset-9 col-xs-6 col-xs-offset-5" id="sister-img">
-				<img src="images/sister.svg" class="img-responsive" alt="Responsive image">
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-sm-1" id="cat-img">
-				<!-- <img src="images/cat.svg" class="img-responsive" alt="Responsive image"> -->
-			</div>
-			<div class="col-md-2 col-md-offset-4 col col-xs-4 col-xs-offset-4 col-sm-2 col-sm-offset-5" id="main-icon">
-				<img src="images/Johnny Ace_Icon.svg" class="img-responsive" alt="Responsive image">
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-md-4 col-md-offset-2 col-sm-4 col-sm-offset-2 col-xs-12"><div class="center-block stores ios"></div></div>
-			<div class="col-md-4 col-sm-4 col-xs-12"><div class="center-block stores android"></div></div>
-		</div>
-		<div class="row">
-			<div id="subscription-form">
-				<!-- Begin MailChimp Signup Form -->
-				<div id="mc_embed_signup">
-					<form action="//twitter.us2.list-manage.com/subscribe/post?u=e9d8e2078e2e7c69f0414c3d5&amp;id=14e88becbd" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-						<div id="mc_embed_signup_scroll">
+	<div id="follow-links">
+		<img src="images/Follow_us_on.svg" alt="">
+		<img src="images/G+.svg">
+		<img src="images/facebook.svg">
+		<img src="images/twitter.svg">
+	</div>
+
+	<div id="family">
+		<img class="family" id="family-sister" src="images/sister.svg" alt="">
+		<img class="family" id="family-father" src="images/father.svg" alt="">
+		<div class="family" id="family-cat"></div>
+		<div class="family" id="family-brother"></div>
+		<img class="family" id="family-mother" src="images/mother.svg" alt="">
+		<img class="family" id="family-johnny" src="images/Johnny_Ace_Icon.svg" alt="">
+	</div>
+
+	<div class="form-div row">
+		<div id="subscription-form">
+			<!-- Begin MailChimp Signup Form -->
+			<div id="mc_embed_signup">
+				<form action="//twitter.us2.list-manage.com/subscribe/post?u=e9d8e2078e2e7c69f0414c3d5&amp;id=14e88becbd" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+					<div id="mc_embed_signup_scroll">
 							<!-- <h2>Subscribe to our mailing list</h2>
 							<div class="indicates-required"><span class="asterisk">*</span> indicates required</div> -->
-							<div class="mc-field-group" style="width: 56%; margin: 0px auto;">
+							<div class="mc-field-group">
 								<!-- <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
 							</label> -->
-								<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Enter your email here to subscribe.">
-							</div>
+							<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Enter your email here to subscribe.">
+						</div>
 							<!-- <div class="mc-field-group">
 								<label for="mce-FNAME">First Name </label>
 								<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
@@ -97,19 +69,8 @@
 						</div>
 					</form>
 				</div>
-
 				<!--End mc_embed_signup-->
 			</div>
 		</div>
-		<div class="row">
-			<div class="col-md-2 col-sm-2 col-xs-2 img-responsive" id="mother-img">
-				<img src="images/mother.svg" class="img-responsive" alt="Responsive image">
-			</div>
-			<div class="col-md-4 col-md-offset-6 col-sm-3 col-sm-offset-5 img-responsive" id="brother-img"></div>
-			<div class="col-md-4 col-md-offset-2 col-xs-4 col-xs-offset-6" id="father-img">
-				<img src="images/father.svg" class="img-responsive" alt="Responsive image">
-			</div>
-		</div>
-	</div>
-</body>
-</html>
+
+	</body>
